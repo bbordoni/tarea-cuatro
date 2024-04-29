@@ -1,0 +1,77 @@
+.dia{
+    text-align: center;
+    font-size: 7;
+    font-style: normal; 
+    color: blueviolet;
+    border-width: 3px;
+    border-color: blueviolet;
+
+}
+
+.dia1{
+    text-align: center;
+    font-size: 5;
+    font-style: normal;
+    color: rgb(75, 190, 71);
+    border-width: 3px;
+    border-color:  rgb(75, 190, 71);
+
+}
+
+.dia2{
+    text-align: center;
+    font-size: 5;
+    font-style: normal;
+    color: rgb(30, 99, 155);
+    border-width: 5px;
+    border-color: rgb(30, 99, 155) ;
+
+}
+
+.dia3{
+    text-align: center;
+    font-size: 5;
+    font-style: normal;
+    color: rgb(182, 33, 27);
+    border: 3px;
+    border-color:rgb(182, 33, 27) ;
+
+}
+
+.horario{
+    text-align: center;
+    font-size: 7;
+    font-style: normal;
+    color: blueviolet;
+
+}
+
+.horario1{
+    text-align: center;
+    font-size: 3;
+    font-style: normal;
+    color: rgb(75, 190, 71);
+    border-width: 3px;
+    border-color:  rgb(75, 190, 71);
+
+}
+
+.horario2{
+    text-align: center;
+    font-size: 3;
+    font-style: normal;
+    color: rgb(30, 99, 155);
+    border-width: 5px;
+    border-color: rgb(30, 99, 155) ;
+
+}
+
+.horario3{
+    text-align: center;
+    font-size: 3;
+    font-style: normal;
+    color:rgb(182, 33, 27);
+    border: 3px;
+    border-color:rgb(182, 33, 27) ;
+    
+}
